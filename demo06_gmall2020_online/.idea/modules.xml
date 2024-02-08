@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dw-chart/dw-chart.iml" filepath="$PROJECT_DIR$/dw-chart/dw-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0523-logger/gmall0523-logger.iml" filepath="$PROJECT_DIR$/gmall0523-logger/gmall0523-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0523-publisher/gmall0523-publisher.iml" filepath="$PROJECT_DIR$/gmall0523-publisher/gmall0523-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0523-realtime/gmall0523-realtime.iml" filepath="$PROJECT_DIR$/gmall0523-realtime/gmall0523-realtime.iml" />
+    </modules>
+  </component>
+</project>
