@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98c7f6d5-93f6-4295-9735-1e2e651bcd98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo01_financial_lease/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_financial_lease/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_financial_lease/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_financial_lease/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/demo01_flume_interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/demo01_financial_lease.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/src/main/java/com/atguigu/financial/flume/interceptor/TimestampAndTableInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/target/financial-lease-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/target/financial-lease-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/src/main/java/com/atguigu/flume/interceptor/ETLInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/src/main/java/com/atguigu/flume/interceptor/JSONUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor02/src/main/java/com/atguigu/flume/interceptor/TimeStampInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor03/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor03/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor03/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo01_flume_interceptor03/demo01_flume_interceptor02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/demo02_financial_lease_on_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/demo02_financial_lease_on_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dim/FinancialLeaseDimApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dwd/DwdBaseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsAuditAuditManApprovalWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsAuditAuditManCancelWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsAuditAuditManRejectWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsAuditIndLeaseOrgSalesmanApprovalWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsAuditIndLeaseOrgSalesmanCancelWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsAuditIndLeaseOrgSalesmanRejectWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsCreditCreditAddWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsCreditCreditOccupyWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsLeaseContractProduceWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsLeaseExecutionWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/dws/DwsLeaseSignWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/func/AsyncDimFunctionHBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/func/DimFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/app/func/DimSinkFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DateFormatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdAuditApprovalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdAuditCancelBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdAuditRejectBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdAuditReplyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdCreditAddBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdCreditOccupyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdLeaseContractProducedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdLeaseExecutionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwdLeaseSignedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsAuditAuditManApprovalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsAuditAuditManCancelBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsAuditAuditManRejectBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsAuditIndLeaseOrgSalesmanApprovalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsAuditIndLeaseOrgSalesmanCancelBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsAuditIndLeaseOrgSalesmanRejectBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsCreditCreditAddBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsCreditCreditOccupyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsLeaseContractProduceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsLeaseExecutionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/DwsLeaseSignBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/TableProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/bean/TransientSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/common/FinancialLeaseCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/Bean2JSONUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/CreateEnvUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/DorisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/HBaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/KafkaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/MySQLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/java/com/atguigu/financial_lease_realtime/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/test/java/FlinkCDC_01_ds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/src/test/java/Flink_02_Kafka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo02_financial_lease_on_time/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/demo03_gmall_azkaban_java_process.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/demo03_gmall_azkaban_java_process.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/src/main/java/com/atguigu/TestJavaProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/target/azkaban_javaprocess-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_azkaban_java_process/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/demo03_gmall_data_supervisor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/azclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/azkaban.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_dim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_dim.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_dwd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_dwd.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_notification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_ods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/check_ods.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/data_supervisor.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/day_on_day.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/demo03_gmall_data_supervisor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/duplicate.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/null_id.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/range.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_data_supervisor/week_on_week.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/demo03_gmall_udtf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/demo03_gmall_udtf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/src/main/java/com/atguigu/gmall/hive/udtf/ExplodeJSONArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/target/gmall_udtf-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_gmall_udtf/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/demo03_kylin_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/kylin_0318.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo03_kylin_01/src/main/java/com/atguigu/kylin/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/demo04_hbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/demo04_hbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/HBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/HBaseDDL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/HBaseDML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/PhoenixClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/hbase-weibo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/hbase_weibo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/src/main/java/com/atguigu/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/src/main/java/com/atguigu/dao/HBaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/src/main/java/com/atguigu/test/TestWeiBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/src/main/java/com/atguigu/utils/HBaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/demo05_01_gmall2.0_log_collector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/log-collector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/appclient/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppActive_background.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppAd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppErrorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppFavorites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppNewsDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppPraise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/log-collector-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/log-collector-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/flume-interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogETLInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogTypeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo06_gmall2020_online.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/dw-chart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/java/com/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/java/com/demo/controller/DictController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/java/com/demo/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/java/com/demo/utils/GetDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/java/com/demo/utils/HttpClientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/china.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/css/custom-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/geo/china.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/chart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/china.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/dataTables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/easypiechart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/morris/morris-0.4.3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/morris/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/morris/raphael-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/empty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/tab-panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/main/resources/templates/ui-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/src/test/java/com/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/china.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/css/custom-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/geo/china.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/chart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/china.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/custom-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/dataTables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/easypiechart-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/morris/morris-0.4.3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/morris/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/static/assets/js/morris/raphael-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/empty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/tab-panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw-chart/target/classes/templates/ui-elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/src/main/java/com/atguigu/logger/Gmall2020LoggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/src/main/java/com/atguigu/logger/controller/LoggerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-logger/src/test/java/com/atguigu/logger/Gmall2020LoggerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/Gmall0523PublisherApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/controller/DataVController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/controller/PublisherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/mapper/OrderWideMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/mapper/TrademarkStatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/service/ClickHouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/service/ESService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/service/MySQLService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/service/impl/ClickHouseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/service/impl/ESServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/java/com/atguigu/gmall/publisher/service/impl/MySQLServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/resources/mapper/OrderWideMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/main/resources/mapper/TrademarkStatMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-publisher/src/test/java/com/atguigu/gmall/publisher/Gmall0523PublisherApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/gmall0523-realtime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/MyESUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/ads/TrademarkStatApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/app/DauApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/app/a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/BaseCategory3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/BaseTrademark.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/DauInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/OrderDetail.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/OrderInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/OrderWide.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/ProvinceInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/SkuInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/SpuInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/UserInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/UserStatus.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dim/BaseCategory3App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dim/BaseTrademarkApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dim/ProvinceInfoApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dim/SkuInfoApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dim/SpuInfoApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dim/UserInfoApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dwd/OrderDetailApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dwd/OrderInfoApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/dws/OrderWideApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/ods/BaseDBCanalApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/ods/BaseDBMaxwellApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyESUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyKafkaSink.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyKafkaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyPropertiesUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyRedisUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MySQLUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/OffsetManagerM.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/OffsetManagerUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/src/main/scala/com/atguigu/gmall/realtime/util/PhoenixUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/target/classes/META-INF/gmall0523-realtime.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall0523-realtime/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo07_gmall_ECommerceRecommendSystem/recommender/OfflineRecommender/OfflineRecommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo07_gmall_ECommerceRecommendSystem/recommender/StreamingRecommender/StreamingRecommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/domain/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/recom/Recommendation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/ContentBasedRecommendationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/HotRecommendationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/ItemCFRecommendationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/LoginUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/ProductRatingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/ProductRecommendationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/RateMoreRecommendationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/RegisterUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/model/request/UserRecommendationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/rest/ProductRestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/rest/UserRestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/service/RatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/service/RecommenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/utils/Configure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/java/com/atguigu/business/utils/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/log/agent.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/resources/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/resources/recommend.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/WEB-INF/application-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/demo-files/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/demo-files/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/logo-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/sgg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/assets/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/glyphicons-halflings-regular.448c34a56d699c29117a.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/glyphicons-halflings-regular.89889688147bd7575d63.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/glyphicons-halflings-regular.fa2772327f55d8198301.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/icomoon.0a75ccae458aa5a90871.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/icomoon.25e7839e4ae2737001b8.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/icomoon.d50bc6cbfbd940af3c8b.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/icomoon.d9033dd8aa810bff2e29.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/inline.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/inline.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/main.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/main.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/polyfills.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/polyfills.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/scripts.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/scripts.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/styles.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/styles.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/vendor.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/businessServer/src/main/webapp/vendor.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/demo08_gmall_ECommerceRecommendSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ContentRecommender/ContentRecommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ContentRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ContentRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ContentRecommender/src/main/scala/com/atguigu/content/ContentRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/DataLoader/DataLoader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/DataLoader/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/DataLoader/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/DataLoader/src/main/resources/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/DataLoader/src/main/resources/ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/DataLoader/src/main/scala/com/atguigu/recommerder/DataLoader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ItemCFRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ItemCFRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/ItemCFRecommender/src/main/scala/com/atguigu/itemcf/ItemCFRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/KafkaStreaming/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/KafkaStreaming/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/KafkaStreaming/src/main/scala/com/atguigu/kafkastreaming/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/KafkaStreaming/src/main/scala/com/atguigu/kafkastreaming/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OfflineRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OfflineRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OfflineRecommender/src/main/scala/com/atguigu/offline/ALSTrainer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OfflineRecommender/src/main/scala/com/atguigu/offline/OfflineRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OnlineRecommender/OnlineRecommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OnlineRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OnlineRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/OnlineRecommender/src/main/scala/com/atguigu/online/OnlineRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/StatisticsRecommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/StatisticsRecommender/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/StatisticsRecommender/src/main/scala/com/atguigu/statistics/SparkWindowAggl.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/StatisticsRecommender/src/main/scala/com/atguigu/statistics/StatisticsRecommender.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo08_gmall_ECommerceRecommendSystem/recommender/recommender.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo01_financial_lease/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo01_financial_lease/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\codeware\IntelliJ IDEA\project_tmp\note_demo\demo06_gmall2020_online\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2c5X8hZuKpVux2d5UhmUZmpUzY8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c7f6d5-93f6-4295-9735-1e2e651bcd98" name="Default Changelist" comment="" />
+      <created>1707402255703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707402255703</updated>
+      <workItem from="1707402257536" duration="261000" />
+      <workItem from="1707402539525" duration="13000" />
+      <workItem from="1707403018806" duration="3000" />
+      <workItem from="1707403937494" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
