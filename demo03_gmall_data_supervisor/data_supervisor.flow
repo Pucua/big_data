@@ -1,0 +1,24 @@
+nodes:
+  - name: check_ods
+    type: command
+    config:
+     command: python check_ods.py ${dt}
+
+  - name: check_dwd
+    type: command
+    config:
+     command: python check_dwd.py ${dt}
+
+  - name: check_dim
+    type: command
+    config:
+     command: python check_dim.py ${dt}
+    
+  - name: check_notification
+    type: command
+    dependsOn:
+         - check_ods
+         - check_dwd
+         - check_dim
+    config:
+     command: python check_notification.py ${alert} ${dt}
