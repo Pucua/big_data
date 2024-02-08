@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ac3989b-d5e5-4c53-b7e4-73f60ed8e161" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/demo04_hbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/demo04_hbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/HBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/HBaseDDL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/HBaseDML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/java/com/atguigu/PhoenixClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/hbase-weibo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/src/main/java/com/atguigu/dao/HBaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo05_01_gmall2.0_log_collector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-collector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/appclient/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppActive_background.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppAd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppErrorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppFavorites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppNewsDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppPraise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/log-collector-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/log-collector-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogETLInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogTypeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../big_data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo06_gmall2020_online/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo06_gmall2020_online/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\codeware\IntelliJ IDEA\project_tmp\note_demo\demo05_01_gmall2.0_log_collector\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2c6B68IX3MNwRCwNNk90N9SbAab" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ac3989b-d5e5-4c53-b7e4-73f60ed8e161" name="Default Changelist" comment="" />
+      <created>1707421969209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707421969209</updated>
+      <workItem from="1707421970378" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
