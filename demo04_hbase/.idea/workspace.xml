@@ -2,55 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31043ed2-a571-434b-897d-ab5c3c0e6825" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/demo04_hbase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo04_hbase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/HBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/HBaseDDL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/HBaseDML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/PhoenixClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/hbase-weibo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/src/main/java/com/atguigu/dao/HBaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/demo05_01_gmall2.0_log_collector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/log-collector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/appclient/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppActive_background.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppAd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppComment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppErrorLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppFavorites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppNewsDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppPraise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/java/com/atguigu/bean/AppStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/classes/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/log-collector-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/log-collector-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_01_gmall2.0_log_collector/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogETLInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogTypeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/src/main/java/com/atguigu/flume/interceptor/LogUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../big_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo04_hbase_eg_weibo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo05_02_gmall_flume_interceptor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo06_gmall2020_online/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo06_gmall2020_online/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo01_financial_lease/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo01_financial_lease/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo04_hbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo04_hbase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,12 +18,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
         <option value="D:\codeware\IntelliJ IDEA\project_tmp\note_demo\demo04_hbase\.idea" />
       </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -81,8 +44,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo04_hbase_eg_weibo" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo01_financial_lease" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1707421830244</updated>
       <workItem from="1707421832223" duration="342000" />
+      <workItem from="1707426093626" duration="1957000" />
+      <workItem from="1707429469255" duration="667000" />
     </task>
     <servers />
   </component>
@@ -118,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

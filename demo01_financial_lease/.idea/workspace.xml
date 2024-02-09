@@ -1,12 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4cf3c33-5355-484b-8358-09c45ac2aa4d" name="Default Changelist" comment="" />
+    <list default="true" id="c4cf3c33-5355-484b-8358-09c45ac2aa4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dim/FinancialLeaseDimApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dwd/DwdBaseApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsAuditAuditManApprovalWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsAuditAuditManCancelWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsAuditAuditManRejectWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsAuditIndLeaseOrgSalesmanApprovalWin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsAuditIndLeaseOrgSalesmanCancelWin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsAuditIndLeaseOrgSalesmanRejectWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsCreditCreditAddWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsCreditCreditOccupyWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsLeaseContractProduceWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsLeaseExecutionWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/dws/DwsLeaseSignWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/func/AsyncDimFunctionHBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/func/DimFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/app/func/DimSinkFunc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdAuditApprovalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdAuditCancelBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdAuditRejectBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdAuditReplyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdCreditAddBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdCreditOccupyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdLeaseContractProducedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdLeaseExecutionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwdLeaseSignedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsAuditAuditManApprovalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsAuditAuditManCancelBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsAuditAuditManRejectBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsAuditIndLeaseOrgSalesmanApprovalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsAuditIndLeaseOrgSalesmanCancelBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsAuditIndLeaseOrgSalesmanRejectBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsCreditCreditAddBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsCreditCreditOccupyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsLeaseContractProduceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsLeaseExecutionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/DwsLeaseSignBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/TableProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/bean/TransientSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/common/FinancialLeaseCommon1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/Bean2JSONUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/CreateEnvUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/DateFormatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/DorisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/HBaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/KafkaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/MySQLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/java/com/atguigu/financial/lease/realtime/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/test/java/FlinkCDC_01_ds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime/src/test/java/Flink_02_Kafka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/FinancialLeaseRealtimePublisherApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/bean/AuditedStatsDepartAuditApproveBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/bean/AuditedStatsLeaseOrgAuditApproveBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/controller/AuditedStatsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/mapper/AuditedStatsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/service/AuditedStatsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/service/impl/AuditedStatsStatsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/java/com/atguigu/financial_lease/realtime/publisher/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/financial_lease_realtime_publisher-master/src/test/java/com/atguigu/financial_lease/realtime/publisher/FinancialLeaseRealtimePublisherApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo04_hbase/.idea/demo04_hbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/demo04_hbase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo04_hbase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo04_hbase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo04_hbase/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,6 +88,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,11 +98,16 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="2VaxmHGEPGFjLSRVQqTHwggZMqV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo01_maxwell_interceptor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,10 +133,26 @@
       <updated>1695088149495</updated>
       <workItem from="1695088152058" duration="8583000" />
       <workItem from="1695364650489" duration="366000" />
+      <workItem from="1707427425455" duration="2010000" />
+      <workItem from="1707429471979" duration="1216000" />
+      <workItem from="1707468961860" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
